@@ -9,6 +9,12 @@ def add(num1, num2):
     """
     return num1 + num2
 
+def subtract(num1):
+    """
+    This function takes a number as input and returns the result minus one.
+    """
+    return num1 - 1
+
 
 
 print("This is the sum of 1 and 2 is: ", add(1, 2))
